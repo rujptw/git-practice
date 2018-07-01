@@ -9,6 +9,7 @@ ok
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  
 i am done
 =======
@@ -25,3 +26,9 @@ stash
 
 stash
 >>>>>>> Stashed changes
+=======
+
+stash
+>>>>>>> Stashed changes
+
+change2
