@@ -1,11 +1,19 @@
 i am new
 Èöµ©Èöµ©Èöµ©
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+sdsdsds
+
+
+
+=======
 last chance
 
 i am dev
 
 ok
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -32,3 +40,6 @@ stash
 >>>>>>> Stashed changes
 
 change2
+=======
+>>>>>>> dev
+>>>>>>> master
