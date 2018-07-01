@@ -44,8 +44,12 @@ change2
 >>>>>>> dev
 >>>>>>> master
 
+<<<<<<< HEAD
 feture
 
 a little tired 
 
 old
+=======
+new
+>>>>>>> 535a51b4250a056599e2f5769bd9adf1e4c73bab
