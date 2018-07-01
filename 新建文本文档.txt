@@ -8,6 +8,7 @@ i am dev
 ok
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  
 i am done
 =======
@@ -16,6 +17,10 @@ stash
 >>>>>>> Stashed changes
 
 change1
+=======
+
+stash
+>>>>>>> Stashed changes
 =======
 
 stash
