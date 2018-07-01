@@ -6,5 +6,12 @@ last chance
 i am dev
 
 ok
+<<<<<<< Updated upstream
  
 i am done
+=======
+
+stash
+>>>>>>> Stashed changes
+
+change1
